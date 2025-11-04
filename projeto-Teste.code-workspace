@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+repulsive-hex-5v4x6x6q96q2767v/workspaces/projeto-Teste"
+		},
+		{
+			"name": "pyton",
+			"uri": "vscode-remote://codespaces+repulsive-hex-5v4x6x6q96q2767v/home/codespace/.python/pyton"
+		}
+	],
+	"remoteAuthority": "codespaces+repulsive-hex-5v4x6x6q96q2767v",
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
