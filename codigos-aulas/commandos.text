@@ -1,0 +1,9 @@
+#coversão para formata para minusculo 
+.lower()
+# arrancar o final com espaço (formata caso você digitar e colocar espaço) 
+.strip()
+#limitar quantidade de carcateres ex:senha, usuarios - so funciona tipo str
+.len() ex -> if len(" senha cadastrada " )<=8
+     break
+     else: 
+     print ("  Senha muito longa ")      ------------------------- /////    ---
