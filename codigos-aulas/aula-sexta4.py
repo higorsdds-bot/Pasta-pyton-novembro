@@ -77,7 +77,7 @@ def mostrar_notas():
     else:
         print("Notas atuais:", notas)
 
-def mostrar_media():
+def  mostrar_media():
     if len(notas) == 0:
         print("Não há notas para calcular média.")
     else:

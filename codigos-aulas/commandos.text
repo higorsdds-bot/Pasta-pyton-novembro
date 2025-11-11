@@ -8,3 +8,5 @@
      else: 
      print ("  Senha muito longa ")      ------------------------- /////    ---
   list[] e tuple ()
+  max() conotação para informar o maior numero
+  min() conotação para informar o menor numero 
